@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), #fff;
+}
+
+.intr0 h1{
+    font-size: 50px;
+}
+
+.ok p{
+    margin-left: 50px;
+    font-size: 30px;
+    width: 1000px;
+}
+
+.saveit img{
+    margin-left: 50px;
+    height: 400px;
+    width: 900px;
+}
+.rename img{
+    margin-left: 50px;
+    height: 400px;
+    width: 900px;
+}
+.write img{
+    margin-left: 50px;
+    height: 400px;
+    width: 900px;
+}
+.preview img{
+    margin-left: 50px;
+    height: 400px;
+    width: 900px;
+}
